@@ -1,0 +1,36 @@
+_model: page
+---
+title: DevOps Together
+---
+body:
+
+## Cel projektu
+
+Dać możliwość rozwoju sympatykom IT w kierunku szerokorozumianego DevOpsowania.  
+Inicjatywa zakłada przeprowadzenie pełnego procesu wytwarzania produktu, m. in.:
+- fazę projektową
+- przygotowanie infrastruktury
+- wytworzenie aplikacji
+- opracowanie procesów testowania i deploy-u
+- monitorowanie działania
+
+Realizacja projektu zakłada naukę na podstawie popełnionych błędów, co pozwoli lepiej zrozumieć genezę dobrych praktyk, jak również zapewni poczucie ciągłego rozwoju. 
+
+## Technologie/metodyki
+
+Podczas realizacji projektu, najprawdopodobniej będą wykorzystywane następujące technologie i metodyki:
+- linux
+- git
+- terraform
+- ansible
+- kubernetes
+- microservices
+- prometheus
+- gitlab
+- CICD
+- Python
+- Go
+- Rust
+
+## Kontakt
+Discord: https://discord.linux.org.pl (kanał DevOps Together)
